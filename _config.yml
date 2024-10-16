@@ -1,6 +1,7 @@
 baseurl: '/victoryjacklimited/'
 permalink: pretty
 title: 'Jekyll Serif'
+theme: Jekyll Serif Theme
 
 logo:
   mobile: "images/logo/logo-mobile.svg"

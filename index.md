@@ -1,7 +1,7 @@
 ---
-title: Jekyll Serif Theme
+title: WELCOME TO VICTORY JACK LIMITED
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: A MULTI INVESTMENT FIRM OF LONDON UNITED KINGDOM SPECIALIZING IN VARIOUS AREAS SINCE 2018.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
@@ -10,4 +10,4 @@ show_call_box: true
 
 # Serif - A Jekyll Business Theme.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+We are a Investment company, We leverage on our Team`s expertise and knowledge to work on each Investment whilst applying our sector and transaction experience in creating the best value for our investment company.

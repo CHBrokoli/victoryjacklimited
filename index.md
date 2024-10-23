@@ -8,7 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Ingen Group- Empresa de inversión.
 
 Somos una firma de inversión dedicada a explorar oportunidades en diversos sectores como manufactura, salud, bienes raíces y tecnología.
-Nuestro equipo de profesionales experimentados busca constantemente asociaciones valiosas y alianzas estratégicas para generar retornos prometedores para nuestra empresa.

@@ -15,7 +15,7 @@ Con una sólida trayectoria y el compromiso de brindar un servicio excelente, In
 
 Esta iniciativa se centra en identificar y abordar las necesidades financieras únicas de estas regiones, aprovechando soluciones y asociaciones innovadoras para cerrar la brecha entre la oferta y la demanda y fomentando el crecimiento y el desarrollo económico sostenibles.
 
-Comprendemos la importancia de obtener financiación a tiempo, y nuestro rápido proceso de aprobación significa que puede obtener los fondos que necesita cuando los necesita. No permita que las limitaciones financieras lo detengan. Recurra a Ingen Group para obtener soluciones de financiación de préstamos confiables y eficientes.
+Comprendemos la importancia de obtener financiación a tiempo, y nuestro rápido proceso de aprobación significa que puede obtener los fondos que necesita cuando los necesita. No permita que las limitaciones financieras lo detengan. Recurra a **Ingen Group** para obtener soluciones de financiación de préstamos confiables y eficientes.
 
 ## Solicitar
 

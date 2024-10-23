@@ -21,67 +21,22 @@ Nuestro equipo de expertos cuenta con un amplio conocimiento del mercado inmobil
 
 ## Los servicios de investigación y decisión inmobiliaria incluyen
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
-
 > NUESTRA DECISIÓN INMOBILIARIA CORRECTA
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+Nuestras decisiones inmobiliarias se basan en un análisis exhaustivo de diversos factores. Consideramos cuidadosamente la ubicación, el tamaño de la propiedad, las comodidades y el potencial de crecimiento futuro. Nuestro objetivo es tomar decisiones informadas que se alineen con nuestra estrategia de inversión y maximicen los retornos. Realizamos una investigación exhaustiva para recopilar datos sobre las tendencias del mercado, los valores de las propiedades y la demanda de alquiler.
 
-## Faithful Representation
+Nuestro amplio conocimiento del mercado es la piedra angular de nuestro trabajo y colaboramos con investigadores respetados que rastrean las tendencias del mercado nacional y regional para satisfacer incluso las demandas más estrictas de los clientes.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+Esto nos ayuda a identificar propiedades con un gran potencial de apreciación o ingresos por alquiler. Además, monitoreamos de cerca los indicadores económicos y las políticas gubernamentales que pueden afectar el mercado inmobiliario. Nuestro equipo de profesionales experimentados colabora para evaluar los riesgos y las oportunidades asociadas con cada propiedad. Creemos en tomar decisiones inmobiliarias prudentes y bien informadas que contribuyan a nuestro éxito financiero general.
 
-## Enhancing Qualitative Characteristics
+> EL AMPLIO ESPECTRO DE NUESTROS SERVICIOS DE INVESTIGACIÓN INMOBILIARIA INDEPENDIENTES Y ESPECIALIZADOS
 
-### Verifiability
+Análisis de mercado de la ubicación, ya sea regional, de toda la ciudad, centrado en segmentos de calles y ciertos vecindarios, hasta objetos de propiedad individuales.
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+El procesamiento y evaluación de datos relativos a partes específicas de un mercado mediante el uso de bases de datos internas y externas.
 
-### Comparability
+La creación de conceptos sobre el posible uso futuro de los inmuebles, en particular de los que permanecen en stock y de los que requieren modernización.
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+La elaboración de estrategias para el uso potencial del inmueble con el fin de abrir y explotar el valor añadido y el potencial de desarrollo.
 
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+La elaboración de un concepto de marketing ya sea para el arrendamiento del inmueble o para la venta de un objeto inmobiliario o de carteras de inmuebles.

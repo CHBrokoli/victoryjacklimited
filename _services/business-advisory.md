@@ -41,42 +41,35 @@ Si nos comunicas el resultado positivo de los controles recibirás inmediatament
 
 # Nuestros préstamos globales - Financiación
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+Nuestros préstamos globales brindan acceso a una amplia gama de opciones de financiamiento, permitiendo a las personas y empresas alcanzar sus metas y objetivos.
 
-### Comparability
+Con una variedad de productos de préstamo y plazos de pago flexibles, nuestros préstamos globales se adaptan a diversas necesidades y circunstancias. Desde préstamos personales hasta hipotecas, líneas de crédito y préstamos comerciales, ofrecemos un conjunto integral de soluciones financieras para ayudarlo a alcanzar sus sueños y hacer crecer su patrimonio.
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+## Liderando con confianza
 
-### Understandability
+Nuestro enfoque “Liderar con confianza” se basa en la transparencia, la responsabilidad y la empatía.
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+Al fomentar una cultura de comunicación abierta y honesta, capacitamos a los miembros de nuestro equipo para que se responsabilicen de su trabajo, compartan sus ideas y brinden comentarios constructivos. Este entorno basado en la confianza nos permite tomar decisiones informadas, resolver conflictos de manera eficaz y generar resultados significativos que beneficien a todos los involucrados.
 
----
+## Nuestras soluciones avanzadas para préstamos
 
-## Statement of cash flows
+Nuestras innovadoras soluciones de préstamos están diseñadas para empoderar a las personas y a las empresas a alcanzar sus objetivos financieros.
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+Con una variedad de opciones, que incluyen préstamos personales, préstamos comerciales y préstamos hipotecarios, ofrecemos soluciones financieras flexibles y competitivas para satisfacer las necesidades únicas de nuestros clientes. Nuestra tecnología avanzada y nuestro proceso simplificado permiten una solicitud, aprobación y desembolso rápidos y sencillos, lo que permite a nuestros clientes acceder a los fondos que necesitan, cuando los necesitan.
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+## Nuestros préstamos gestión de riesgos
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+Nuestros préstamos se gestionan con el máximo cuidado a través de una rigurosa diligencia debida, garantizando que cada decisión de inversión sea informada y responsable.
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
+Realizamos una investigación y un análisis exhaustivos de cada oportunidad de préstamo, evaluando cuidadosamente la solvencia, las finanzas y las perspectivas comerciales del prestatario para identificar los posibles riesgos y mitigarlos. Este enfoque disciplinado nos permite tomar decisiones informadas que equilibran el riesgo y la recompensa, lo que en última instancia genera fuertes retornos para nuestros inversores y minimiza las posibles pérdidas.
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+## ¿Por qué elegirnos? 
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
+Ingen Group respalda la gestión de las empresas de su cartera no solo con capital, sino también con conocimientos, experiencia y perspectiva únicos. Consideramos a nuestros empresarios como socios a largo plazo y nos esforzamos por garantizar el máximo éxito y viabilidad a largo plazo de sus negocios.
 
-## Statement of financial position (balance sheet)
+Nuestro equipo prestará su experiencia cuando sea apropiado, no buscamos reemplazar al empresario al tomar decisiones comerciales críticas, dejamos la gestión diaria del negocio al equipo de gestión establecido y complementaremos el equipo con ejecutivos capacitados de la industria y conocimiento estratégico, cuando sea necesario.
 
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
+Implementamos con éxito esta estrategia desde su fundación, brindando conocimiento y experiencia empresarial para ayudar a sus empresarios a construir y crear valor en sus negocios.
 
 - **fixed assets**
   - property

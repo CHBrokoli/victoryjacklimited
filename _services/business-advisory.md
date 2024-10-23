@@ -37,7 +37,7 @@ Si nos comunicas el resultado positivo de los controles recibirás inmediatament
 - Debes ser mayor de edad para obtener un préstamo
 - Sus ingresos pueden proceder de empleados (incluidos los contratos temporales o de formación), de trabajadores autónomos o de pensiones de empleo atípico
 
-![Accounting Services](/victoryjacklimited/images/ayuda-financiera.jpg)
+![Accounting Services](/victoryjacklimited/images/razones-invertir.jpg)
 
 # Nuestros préstamos globales - Financiación
 

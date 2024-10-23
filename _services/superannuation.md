@@ -26,7 +26,7 @@ A través de una investigación y un análisis exhaustivos, nuestro objetivo es 
 
 Al diversificar nuestra cartera y asignar recursos de manera estratégica, nos esforzamos por aprovechar la volatilidad y los altos rendimientos potenciales que ofrece el mercado de criptomonedas. Con una perspectiva a largo plazo y rigurosas estrategias de gestión de riesgos, confiamos en nuestra capacidad para desenvolvernos en este dinámico y emocionante panorama de inversión.
 
-![Accounting Services](/victoryjacklimited/images/1613745359754.jpg)
+![Accounting Services](/victoryjacklimited/images/p7-bg1.jpg)
 
 ## Nuestra investigación de las criptomonedas adecuadas incluye
 

@@ -17,21 +17,29 @@ Esta iniciativa se centra en identificar y abordar las necesidades financieras �
 
 Comprendemos la importancia de obtener financiación a tiempo, y nuestro rápido proceso de aprobación significa que puede obtener los fondos que necesita cuando los necesita. No permita que las limitaciones financieras lo detengan. Recurra a Ingen Group para obtener soluciones de financiación de préstamos confiables y eficientes.
 
-## Relevance
+## Solicitar
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Completa tu solicitud proporcionando información personal y de ingresos sobre ti y sobre el propósito del préstamo. Te pedimos permiso para interrogar las bases de datos para conocer tu historial crediticio. En base a toda esta información sabrás de inmediato si tienes el préstamo y bajo qué condiciones. Tu préstamo está listo para ti y reservado, compuesto por los mejores proveedores internacionales disponibles actualmente.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+Si nos comunicas el resultado positivo de los controles recibirás inmediatamente una cita directamente con el prestador del servicio donde te explicarán detalladamente las condiciones del contrato sin compromiso. Los prestadores deben estar seguros de que su dinero va a parar a manos serias y fiables y por eso existen condiciones obligatorias para obtener un préstamo.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+## Todos los solicitantes deben tener:
 
-## Faithful Representation
+- Una identidad que podemos confirmar
+- Una cuenta bancaria
+- Un ingreso comprobable
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+## No debe tener:
 
-## Enhancing Qualitative Characteristics
+- Insolvencia grave previa
+- Altos niveles de deuda
+- Ingresos insuficientes para cubrir la cuota
+- Debes ser mayor de edad para obtener un préstamo
+- Sus ingresos pueden proceder de empleados (incluidos los contratos temporales o de formación), de trabajadores autónomos o de pensiones de empleo atípico
 
-### Verifiability
+![Accounting Services](/victoryjacklimited/images/ayuda-financiera.jpg)
+
+# Nuestros préstamos globales - Financiación
 
 Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
 

@@ -71,16 +71,17 @@ Nuestro equipo prestará su experiencia cuando sea apropiado, no buscamos reempl
 
 Implementamos con éxito esta estrategia desde su fundación, brindando conocimiento y experiencia empresarial para ayudar a sus empresarios a construir y crear valor en sus negocios.
 
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
+## **Ingen Group**, agrega valor a su cartera de empresas al:
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+  - Implementar nuevos procedimientos de gestión, políticas, presupuestos y planes de negocio;
+  - Aumentar la alta dirección cuando sea necesario, incluida la contratación de los mejores ejecutivos de ventas y operaciones occidentales o el director
+  - Los responsables financieros mejorarán las funciones de auditoría y control
+  - Evaluar e implementar nuevos sistemas, cuando sea necesario
+  - Crear, reclutar y presidir Juntas Directivas y comités ejecutivos
+  - Asistencia en la búsqueda y evaluación de fusiones y adquisiciones
+  - Gestión de diversas transacciones financieras, incluida la obtención de facilidades crediticias, la refinanciación/reestructuración de deuda existente, la captación de capital social y la supervisión de procesos de IPO, ventas estratégicas u otros tipos de posibles transacciones de salida
+  - Contratación de expertos globales para ayudar a tomar decisiones críticas sobre el desarrollo empresarial, como la evaluación de nuevas ubicaciones de sitios para expansión, etc.
+
+## Emprendedores - próximos pasos
+
+Si tiene una propuesta comercial y está interesado en obtener más información sobre cómo **Ingen Group** puede ayudarlo a desarrollar su negocio, comuníquese con nosotros. Incluya su nombre, información de contacto y una descripción de la empresa y nos comunicaremos con usted en breve para analizar los próximos pasos.

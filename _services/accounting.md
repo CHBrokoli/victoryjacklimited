@@ -17,13 +17,14 @@ Nuestro equipo de inversiones de capital privado global se centra en identificar
 
 ## Nuestra estrategia de capital privado
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Nuestra estrategia es acelerar el crecimiento a través de conocimientos locales, aprovechando nuestro profundo conocimiento del sector para identificar y aprovechar las oportunidades emergentes. Al permanecer cerca del mercado y colaborar con las partes interesadas locales, podemos identificar tendencias y posibles disruptores, lo que nos permite tomar decisiones de inversión informadas e impulsar la creación de valor para las empresas de nuestra cartera.
 
 > The ingredients of relevance are the predictive value and confirmatory value.
 
 Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
 
-## Faithful Representation
+## Nuestras inversiones de capital privado 
+
 
 Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
 

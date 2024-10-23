@@ -26,7 +26,6 @@ Information is considered material if its omission or misstatement could influen
 ## Nuestras inversiones
 
 Nuestras inversiones de capital privado se centran en brindar capital estratégico a empresas de alto crecimiento, con énfasis principal en tecnología, atención médica y tecnología financiera. 
-
 Buscamos asociarnos con emprendedores y equipos de gestión excepcionales que compartan nuestra visión de crear empresas sostenibles y líderes en el mercado que generen retornos a largo plazo para nuestros inversores. A través de una combinación de inversiones de capital y apoyo operativo, nuestro objetivo es impulsar el crecimiento, aumentar la rentabilidad y crear valor para todas las partes interesadas.
 
 ![Accounting Services](/victoryjacklimited/images/proyecto-app.jpg)

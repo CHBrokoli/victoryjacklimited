@@ -29,7 +29,7 @@ Nuestras inversiones de capital privado se centran en brindar capital estratégi
 
 Buscamos asociarnos con emprendedores y equipos de gestión excepcionales que compartan nuestra visión de crear empresas sostenibles y líderes en el mercado que generen retornos a largo plazo para nuestros inversores. A través de una combinación de inversiones de capital y apoyo operativo, nuestro objetivo es impulsar el crecimiento, aumentar la rentabilidad y crear valor para todas las partes interesadas.
 
-![Accounting Services](/victoryjacklimited/images/fondos-mutuos.jpg)
+![Accounting Services](/victoryjacklimited/images/proyecto-app.jpg)
 
 # Nuestra plataforma y conocientos locales
 Nuestros conocimientos locales sobre capital privado brindan información valiosa sobre el panorama del capital privado y destacan tendencias, oportunidades y desafíos en regiones clave. Estos conocimientos se basan en la amplia red y experiencia de nuestro equipo en el ámbito del capital privado, lo que brinda una perspectiva única sobre la dinámica actual del mercado y los posibles desarrollos futuros.

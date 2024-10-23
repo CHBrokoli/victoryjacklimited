@@ -26,10 +26,16 @@ Information is considered material if its omission or misstatement could influen
 ## Nuestras inversiones de capital privado 
 
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+Nuestras inversiones de capital privado se centran en brindar capital estratégico a empresas de alto crecimiento, con énfasis principal en tecnología, atención médica y tecnología financiera. Buscamos asociarnos con emprendedores y equipos de gestión excepcionales que compartan nuestra visión de crear empresas sostenibles y líderes en el mercado que generen retornos a largo plazo para nuestros inversores. A través de una combinación de inversiones de capital y apoyo operativo, nuestro objetivo es impulsar el crecimiento, aumentar la rentabilidad y crear valor para todas las partes interesadas.
 
-## Enhancing Qualitative Characteristics
+![Accounting Services](/victoryjacklimited/images/fondos-mutuos.jpg)
 
+# Nuestra plataforma y conocientos locales
+Nuestros conocimientos locales sobre capital privado brindan información valiosa sobre el panorama del capital privado y destacan tendencias, oportunidades y desafíos en regiones clave. Estos conocimientos se basan en la amplia red y experiencia de nuestro equipo en el ámbito del capital privado, lo que brinda una perspectiva única sobre la dinámica actual del mercado y los posibles desarrollos futuros.
+
+Nuestra plataforma de inversión de capital privado aprovecha los conocimientos y la experiencia locales para identificar y capitalizar oportunidades únicas en los mercados emergentes, brindando a los inversores acceso a empresas de alto potencial de crecimiento y activos inmobiliarios que normalmente no son accesibles a través de los canales de inversión tradicionales.
+
+Nuestra plataforma global y conocimientos locales permiten a las empresas ampliar su alcance y tener éxito en los mercados internacionales. Con un profundo conocimiento de los matices culturales, las tendencias del mercado y los requisitos normativos, ayudamos a las empresas a desenvolverse en entornos complejos y a adaptar sus productos y servicios para satisfacer las necesidades únicas de los clientes locales.
 ### Verifiability
 
 Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.

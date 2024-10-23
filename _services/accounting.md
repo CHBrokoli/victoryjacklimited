@@ -15,11 +15,7 @@ Con un fuerte enfoque en la adquisición y el desarrollo de empresas prometedora
 Nuestro equipo de inversiones de capital privado global se centra en identificar e invertir en empresas innovadoras de alto crecimiento con un fuerte potencial de rentabilidad a largo plazo. Con un alcance global, nos centramos en sectores como la tecnología, la atención sanitaria y los productos de consumo, y trabajamos en estrecha colaboración con empresarios, empresas familiares y otras firmas de capital privado para impulsar el crecimiento, mejorar las operaciones y crear valor para nuestra empresa.
 
 
-1. CRECIMIENTO ACELERADO A TRAVÉS DE CONOCIMIENTOS LOCALES
-2. ESTRATEGIA DE CAPITAL PRIVADO.
-3.  INVERSIONES DE CAPITAL PRIVADO.
-
-## Relevance
+## Nuestra estrategia de capital privado
 
 Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
 

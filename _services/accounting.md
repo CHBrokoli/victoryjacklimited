@@ -10,13 +10,14 @@ Con un fuerte enfoque en la adquisición y el desarrollo de empresas prometedora
 
 ![Accounting Services](/victoryjacklimited/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# Objectivos
 
-Financial accounting and financial reporting are often used as synonyms.
+Nuestro equipo de inversiones de capital privado global se centra en identificar e invertir en empresas innovadoras de alto crecimiento con un fuerte potencial de rentabilidad a largo plazo. Con un alcance global, nos centramos en sectores como la tecnología, la atención sanitaria y los productos de consumo, y trabajamos en estrecha colaboración con empresarios, empresas familiares y otras firmas de capital privado para impulsar el crecimiento, mejorar las operaciones y crear valor para nuestra empresa.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+
+1. CRECIMIENTO ACELERADO A TRAVÉS DE CONOCIMIENTOS LOCALES
+2. ESTRATEGIA DE CAPITAL PRIVADO.
+3.  INVERSIONES DE CAPITAL PRIVADO.
 
 ## Relevance
 

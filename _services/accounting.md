@@ -8,7 +8,7 @@ Con un fuerte enfoque en la adquisición y el desarrollo de empresas prometedora
 
 
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/victoryjacklimited/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
 

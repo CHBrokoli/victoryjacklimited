@@ -10,12 +10,12 @@ Con un fuerte enfoque en la adquisición y el desarrollo de empresas prometedora
 
 ![Accounting Services](/victoryjacklimited/images/fondos-mutuos.jpg)
 
-# Nuestro crecimiento acelerado a través de conocientos locales para el sector de capital privado
+# Nuestro crecimiento acelerado a través de conocientos locales para el sector
 
 Nuestro equipo de inversiones de capital privado global se centra en identificar e invertir en empresas innovadoras de alto crecimiento con un fuerte potencial de rentabilidad a largo plazo. Con un alcance global, nos centramos en sectores como la tecnología, la atención sanitaria y los productos de consumo, y trabajamos en estrecha colaboración con empresarios, empresas familiares y otras firmas de capital privado para impulsar el crecimiento, mejorar las operaciones y crear valor para nuestra empresa.
 
 
-## Nuestra estrategia de capital privado
+## Nuestra estrategia
 
 Nuestra estrategia es acelerar el crecimiento a través de conocimientos locales, aprovechando nuestro profundo conocimiento del sector para identificar y aprovechar las oportunidades emergentes. Al permanecer cerca del mercado y colaborar con las partes interesadas locales, podemos identificar tendencias y posibles disruptores, lo que nos permite tomar decisiones de inversión informadas e impulsar la creación de valor para las empresas de nuestra cartera.
 
@@ -23,10 +23,11 @@ Nuestra estrategia es acelerar el crecimiento a través de conocimientos locales
 
 Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
 
-## Nuestras inversiones de capital privado 
+## Nuestras inversiones
 
+Nuestras inversiones de capital privado se centran en brindar capital estratégico a empresas de alto crecimiento, con énfasis principal en tecnología, atención médica y tecnología financiera. 
 
-Nuestras inversiones de capital privado se centran en brindar capital estratégico a empresas de alto crecimiento, con énfasis principal en tecnología, atención médica y tecnología financiera. Buscamos asociarnos con emprendedores y equipos de gestión excepcionales que compartan nuestra visión de crear empresas sostenibles y líderes en el mercado que generen retornos a largo plazo para nuestros inversores. A través de una combinación de inversiones de capital y apoyo operativo, nuestro objetivo es impulsar el crecimiento, aumentar la rentabilidad y crear valor para todas las partes interesadas.
+Buscamos asociarnos con emprendedores y equipos de gestión excepcionales que compartan nuestra visión de crear empresas sostenibles y líderes en el mercado que generen retornos a largo plazo para nuestros inversores. A través de una combinación de inversiones de capital y apoyo operativo, nuestro objetivo es impulsar el crecimiento, aumentar la rentabilidad y crear valor para todas las partes interesadas.
 
 ![Accounting Services](/victoryjacklimited/images/fondos-mutuos.jpg)
 

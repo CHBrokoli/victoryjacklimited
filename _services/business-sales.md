@@ -41,7 +41,7 @@ La elaboración de estrategias para el uso potencial del inmueble con el fin de 
 
 La elaboración de un concepto de marketing ya sea para el arrendamiento del inmueble o para la venta de un objeto inmobiliario o de carteras de inmuebles.
 
-![Accounting Services](/victoryjacklimited/images/fondos-inversion.jpg)
+![Accounting Services](/victoryjacklimited/images/ilustracion-concepto.jpg)
 
 ## Nuestras propiedades especializadas independientes 
 

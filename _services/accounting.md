@@ -19,14 +19,9 @@ Nuestro equipo de inversiones de capital privado global se centra en identificar
 
 Nuestra estrategia es acelerar el crecimiento a través de conocimientos locales, aprovechando nuestro profundo conocimiento del sector para identificar y aprovechar las oportunidades emergentes. Al permanecer cerca del mercado y colaborar con las partes interesadas locales, podemos identificar tendencias y posibles disruptores, lo que nos permite tomar decisiones de inversión informadas e impulsar la creación de valor para las empresas de nuestra cartera.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
 ## Nuestras inversiones
 
-Nuestras inversiones de capital privado se centran en brindar capital estratégico a empresas de alto crecimiento, con énfasis principal en tecnología, atención médica y tecnología financiera. 
-Buscamos asociarnos con emprendedores y equipos de gestión excepcionales que compartan nuestra visión de crear empresas sostenibles y líderes en el mercado que generen retornos a largo plazo para nuestros inversores. A través de una combinación de inversiones de capital y apoyo operativo, nuestro objetivo es impulsar el crecimiento, aumentar la rentabilidad y crear valor para todas las partes interesadas.
+Nuestras inversiones de capital privado se centran en brindar capital estratégico a empresas de alto crecimiento, con énfasis principal en tecnología, atención médica y tecnología financiera. Buscamos asociarnos con emprendedores y equipos de gestión excepcionales que compartan nuestra visión de crear empresas sostenibles y líderes en el mercado que generen retornos a largo plazo para nuestros inversores. A través de una combinación de inversiones de capital y apoyo operativo, nuestro objetivo es impulsar el crecimiento, aumentar la rentabilidad y crear valor para todas las partes interesadas.
 
 ![Accounting Services](/victoryjacklimited/images/proyecto-app.jpg)
 
@@ -36,55 +31,11 @@ Nuestros conocimientos locales sobre capital privado brindan información valios
 Nuestra plataforma de inversión de capital privado aprovecha los conocimientos y la experiencia locales para identificar y capitalizar oportunidades únicas en los mercados emergentes, brindando a los inversores acceso a empresas de alto potencial de crecimiento y activos inmobiliarios que normalmente no son accesibles a través de los canales de inversión tradicionales.
 
 Nuestra plataforma global y conocimientos locales permiten a las empresas ampliar su alcance y tener éxito en los mercados internacionales. Con un profundo conocimiento de los matices culturales, las tendencias del mercado y los requisitos normativos, ayudamos a las empresas a desenvolverse en entornos complejos y a adaptar sus productos y servicios para satisfacer las necesidades únicas de los clientes locales.
-### Verifiability
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+# Nuestra industria y experiencia
 
-### Comparability
+Nuestra experiencia en la industria abarca una amplia gama de sectores, incluidos la tecnología, la atención médica, las finanzas y la energía. Con un fuerte enfoque en las inversiones, brindamos orientación estratégica y apoyo financiero tanto a empresas emergentes innovadoras como a empresas establecidas, ayudándolas a navegar por el complejo panorama de fusiones y adquisiciones, rondas de financiación y cumplimiento normativo.
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+Con nuestro equipo de profesionales experimentados, aportamos un profundo conocimiento de las dinámicas y tendencias complejas de la industria. Nuestra experiencia abarca múltiples sectores, incluidos la tecnología, las finanzas, la atención médica y más, lo que nos permite brindar soluciones personalizadas que satisfacen las necesidades únicas de cada cliente.
 
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Conocemos a fondo las industrias en las que invertimos y contamos con un equipo de expertos que han pasado años estudiando y trabajando en esos sectores. Nuestra experiencia abarca diversas industrias, como la atención sanitaria, la tecnología, la energía y más, lo que nos permite tomar decisiones informadas y brindar una valiosa orientación a las empresas de nuestra cartera.

@@ -1,13 +1,11 @@
 ---
-title: "Business Sales"
+title: "Bienes Raíces"
 date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet
+A lo largo de los años, nuestra empresa ha realizado importantes inversiones en el mercado inmobiliario mundial. Gracias a nuestra experiencia y enfoque estratégico, hemos identificado oportunidades lucrativas en diversas regiones del mundo.
+
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

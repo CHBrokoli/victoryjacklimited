@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Empresa de inversión.
+# Empresa de Inversión.
 
-Somos una firma de inversión dedicada a explorar oportunidades en diversos sectores como manufactura, salud, bienes raíces y tecnología.
+Somos una firma dedicada a explorar oportunidades en diversos sectores como manufactura, salud, bienes raíces y tecnología.

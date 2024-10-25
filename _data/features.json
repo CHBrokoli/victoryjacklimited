@@ -1,7 +1,7 @@
 [
   {
     "title": "Consulta gratuita",
-    "description": "Los nuevos clientes reciben una consulta sin compromiso.",
+    "description": "Los nuevos clientes reciben una consulta sin compromiso",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Contadores públicos certificados",
-    "description": "Todos los miembros de nuestro equipo son contadores públicos certificados.",
+    "title": "Identificamos y adquirimos",
+    "description": "Tenemos un profundo conocimiento de las tendencias del mercado y somos expertos en identificar oportunidades de inversión lucrativas. Su experiencia nos permite tomar decisiones informadas y maximizar los retornos para nuestros clientes.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Cumplimiento fiscal",
-    "description": "Nos mantenemos actualizados sobre los últimos cambios en el código tributario.",
+    "title": "Equipo dedicado y experimentado",
+    "description": "Con un fuerte enfoque en prácticas éticas e inversiones sostenibles, nos dedicamos a crear valor y generar un impacto positivo en la economía global. Bienvenido al mundo de Ingen Group, donde las posibilidades de inversión no conocen límites.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

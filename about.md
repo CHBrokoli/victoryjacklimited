@@ -1,5 +1,5 @@
 ---
-title: About
+title: Quienes somos?
 layout: page
 description: About
 bodyClass: page-about

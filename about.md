@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-Un grupo de inversores, una firma multi-inversión responsable con alcance global.
+**Un grupo de inversores, una firma multi-inversión responsable con alcance global.**
 
 ![Accounting Services](/victoryjacklimited/images/whatis.jpg)
 

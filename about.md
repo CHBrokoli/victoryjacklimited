@@ -1,8 +1,9 @@
 ---
-title: "Quienes somos?"
+title: Quienes somos?
 layout: page
 description: About
 bodyClass: page-about
+weight: 1
 ---
 
 Un grupo de inversores, una firma multi-inversión responsable con alcance global. Tenemos un profundo conocimiento de las tendencias del mercado y somos expertos en identificar oportunidades de inversión lucrativas. Su experiencia nos permite tomar decisiones informadas y maximizar los retornos para nuestros clientes.

@@ -3,7 +3,9 @@ title: "Sra. Anastasia Blow"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/sage-kirk-485982-unsplash.jpg"
 jobtitle: "Directora"
-linkedinurl: "https://www.linkedin.com/example2"
+email: 'yarinchatran@gmail.con'
+phone: '+595981427460'
+contact_button_link: 'contact'
 promoted: true
 weight: 2
 ---

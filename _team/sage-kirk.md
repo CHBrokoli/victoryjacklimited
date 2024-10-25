@@ -1,14 +1,11 @@
 ---
-title: "Sage Kirk"
+title: "Sra. Anastasia Blow"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/sage-kirk-485982-unsplash.jpg"
-jobtitle: "Accounting Partner"
+jobtitle: "Directora"
 linkedinurl: "https://www.linkedin.com/example2"
 promoted: true
 weight: 2
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-<!--more-->
-
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Priorizamos sectores y negocios sostenibles que tengan potencial de crecimiento e impacto positivo. Manteniendo nuestro compromiso con nuestra visión, buscamos crear una cartera que genere ingresos sostenibles y genere valor a lo largo del tiempo.

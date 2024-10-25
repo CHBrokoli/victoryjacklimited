@@ -1,16 +1,18 @@
 ---
-title: Contact
+title: Ponte en contacto
 layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+¿Tiene alguna pregunta? Siempre nos interesa saber lo que tiene que decir, así que ¿por qué no se pone en contacto con nosotros?
 
-| Day       | Opening Hours   |
+
+| Día       | Horario de apertura   |
 | --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+| Lunes   | 8:30am - 5:00pm |
+| Martes | 8:30am - 5:00pm |
+| Miercoles  | 8:30am - 5:00pm |
+| Jueves    | 8:30am - 5:00pm |
+| Viernes  | 10:am - 4:00pm  |
+| Sabado  | 10:am - 1:00pm          |
+| Domingo  | Cerrado          |

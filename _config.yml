@@ -4,10 +4,10 @@ title: 'Jekyll Serif'
 
 
 logo:
-  mobile: "/victoryjacklimited/images/Group 2.svg"
+  mobile: "images/logo/Group.png"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "/victoryjacklimited/images/Group 2.svg"
+  desktop: "images/logo/Group.png"
   desktop_height: "32px"
   desktop_width: "120px"
 

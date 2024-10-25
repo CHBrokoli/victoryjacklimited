@@ -5,83 +5,38 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Un grupo de inversores, una firma multi-inversión responsable con alcance global.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![Accounting Services](/victoryjacklimited/images/whatis.jpg)
 
-# Objectives
+# Acerca de nosotros
 
-Financial accounting and financial reporting are often used as synonyms.
+Gracias a nuestro amplio alcance, nos comprometemos a realizar inversiones estratégicas en diversas industrias, fomentando el crecimiento y maximizando los retornos para nuestros clientes. Nos enorgullecemos de nuestro meticuloso enfoque en la gestión de inversiones, analizando cuidadosamente las oportunidades y mitigando los riesgos para garantizar el éxito a largo plazo.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Nuestro equipo de profesionales experimentados combina su experiencia con una mentalidad progresista, manteniéndose siempre al tanto de las tendencias del mercado y las oportunidades emergentes. En **Ingen Group** , creemos en el poder de la colaboración y utilizamos nuestra amplia red para conectar empresas, inversores y oportunidades de todo el mundo.
 
-## Relevance
+Con un fuerte enfoque en prácticas éticas e inversiones sostenibles, nos dedicamos a crear valor y generar un impacto positivo en la economía global. Bienvenido al mundo de **Ingen Group** , donde las posibilidades de inversión no conocen límites.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+## Nuestro grupo de inversionistas tiene conocimiento y experiencia especializadas
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+Nuestro grupo de inversores está formado por profesionales cualificados y experimentados que aportan una gran cantidad de conocimientos y experiencia a nuestro equipo. Con años de experiencia en diversas industrias, nuestros inversores tienen un historial de éxito comprobado.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+Tienen un profundo conocimiento de las tendencias del mercado y son expertos en identificar oportunidades de inversión lucrativas. Su experiencia nos permite tomar decisiones informadas y maximizar los retornos para nuestros clientes.
 
-## Faithful Representation
+Ya sea en el ámbito financiero, tecnológico, inmobiliario o cualquier otro sector, nuestros inversores tienen las habilidades necesarias para desenvolverse en las complejidades del mercado. Nos enorgullecemos del alto nivel de competencia y profesionalismo que muestra nuestro grupo de inversores, ya que desempeñan un papel crucial en el impulso de nuestro éxito.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+Nuestro enfoque de inversión se centra en lograr un equilibrio entre la sostenibilidad y una rentabilidad a largo plazo superior a la media. Nos comprometemos a invertir en áreas que promuevan la sostenibilidad ambiental y social.
 
-## Enhancing Qualitative Characteristics
+Al seleccionar cuidadosamente una cartera diversificada de inversiones, buscamos mitigar los riesgos y maximizar los posibles retornos. Creemos que las inversiones sustentables no solo contribuyen al bienestar de la sociedad y del planeta, sino que también ofrecen perspectivas financieras atractivas.
 
-### Verifiability
+Nuestra estrategia implica una investigación y un análisis exhaustivos para identificar oportunidades en sectores que se alinean con nuestros valores y tienen potencial de crecimiento a largo plazo. Al combinar el desempeño financiero con el impacto positivo, buscamos crear valor para nuestros inversores y, al mismo tiempo, contribuir a un futuro más sostenible.
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+![Accounting Services](/victoryjacklimited/images/whatis.jpg)
 
-### Comparability
+## Ingen Group, identifica y adquire
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+Hemos prestado apoyo en una amplia gama de áreas, incluidas empresas financieras, proyectos, nuevas ideas y particulares. Nuestro objetivo siempre ha sido dar lo mejor de nosotros en cada esfuerzo.
 
-### Understandability
+Ya sea que se trate de ayudar a instituciones financieras, impulsar proyectos innovadores o ayudar a personas, estamos comprometidos a brindar una asistencia excepcional. Nuestro apoyo integral abarca un espectro diverso de necesidades, lo que garantiza que satisfagamos una multitud de requisitos.
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Con un equipo dedicado y experimentado, nos esforzamos por brindar el más alto nivel de servicio y orientación. Nuestro enfoque se basa en una firme creencia en el potencial y el éxito de nuestros socios. A través de nuestro apoyo, buscamos fomentar el crecimiento, facilitar el progreso e impulsar un cambio positivo.

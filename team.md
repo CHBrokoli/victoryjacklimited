@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Conoce al equipo
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Nuestro equipo de consultores calificados financieros puede ayudar a su negocio en cualquier etapa de su crecimiento.

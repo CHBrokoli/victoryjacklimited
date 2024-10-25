@@ -2,6 +2,7 @@
 title: "Ponte en contacto"
 layout: contact
 description: Contact
+weight: 1
 ---
 
 ¿Tiene alguna pregunta? Siempre nos interesa saber lo que tiene que decir, así que ¿por qué no se pone en contacto con nosotros?

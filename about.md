@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-**Un grupo de inversores, una firma multi-inversión responsable con alcance global.**
+Un grupo de inversores, una firma multi-inversión responsable con alcance global. Tenemos un profundo conocimiento de las tendencias del mercado y somos expertos en identificar oportunidades de inversión lucrativas. Su experiencia nos permite tomar decisiones informadas y maximizar los retornos para nuestros clientes.
 
 ![Accounting Services](/victoryjacklimited/images/whatis.jpg)
 
@@ -31,7 +31,7 @@ Al seleccionar cuidadosamente una cartera diversificada de inversiones, buscamos
 
 Nuestra estrategia implica una investigación y un análisis exhaustivos para identificar oportunidades en sectores que se alinean con nuestros valores y tienen potencial de crecimiento a largo plazo. Al combinar el desempeño financiero con el impacto positivo, buscamos crear valor para nuestros inversores y, al mismo tiempo, contribuir a un futuro más sostenible.
 
-![Accounting Services](/victoryjacklimited/images/whatis.jpg)
+![Accounting Services](/victoryjacklimited/images/e4b.jpg)
 
 ## Ingen Group, identifica y adquire
 

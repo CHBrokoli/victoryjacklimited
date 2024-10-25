@@ -3,8 +3,7 @@ title: "Sr. Richard A. Hadida"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/peter-van-eijk-711986-unsplash.jpg"
 jobtitle: "Director"
-mailito: 'hadida@ingengroup.com'
-<p><a href="mailto:someone@example.com">Send email</a></p>
+href: 'hadida@ingengroup.com'
 promoted: true
 weight: 1
 ---

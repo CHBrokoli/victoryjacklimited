@@ -1,5 +1,5 @@
 ---
-title: Ponte en contacto
+title: "Ponte en contacto"
 layout: contact
 description: Contact
 ---

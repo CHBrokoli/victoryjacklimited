@@ -3,7 +3,7 @@ title: "Sr. Vladimir Kotov"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
 jobtitle: "Director"
-link: "mailto:ekyllserif@example.com "
+link: mailto:ekyllserif@example.com 
 weight: 7
 ---
 

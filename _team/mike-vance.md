@@ -7,4 +7,4 @@ linkedinurl: ""
 weight: 3
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Nuestro grupo de inversores está formado por profesionales cualificados y experimentados que aportan una gran cantidad de conocimientos y experiencia a nuestro equipo. Con años de experiencia en diversas industrias, nuestros inversores tienen un historial de éxito comprobado.

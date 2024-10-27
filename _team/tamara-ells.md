@@ -1,9 +1,9 @@
 ---
-title: "Tamara Ells"
+title: "Sra. Laura Wood"
 date: 2018-12-20T13:44:55+10:00
 image: "images/team/michael-dam-258165-unsplash.jpg"
-jobtitle: "UI Designer"
+jobtitle: "Broker Internacional"
 weight: 4
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Con un fuerte enfoque en prácticas éticas e inversiones sostenibles, nos dedicamos a crear valor y generar un impacto positivo en la economía global. Bienvenido al mundo de Ingen Group , donde las posibilidades de inversión no conocen límites.

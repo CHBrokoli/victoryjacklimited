@@ -8,8 +8,8 @@ logo:
   mobile_height: "800px"
   mobile_width: "800px"
   desktop: "images/logo/Group 2.svg"
-  desktop_height: "80px"
-  desktop_width: "80px"
+  desktop_height: "100px"
+  desktop_width: "100px"
 
 home: 
   limit_services: 6

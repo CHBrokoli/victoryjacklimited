@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Empresa de Inversión.
+# Investment Company
 
-Somos una firma dedicada a explorar oportunidades en diversos sectores como manufactura, salud, bienes raíces y tecnología.
+We are a Investment company, We leverage on our Team`s expertise and knowledge to work on each Investment whilst applying our sector and transaction experience in creating the best value for our investment company.

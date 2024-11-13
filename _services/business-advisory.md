@@ -1,11 +1,10 @@
 ---
-title: "Prestamos - Financiación"
+title: "Loans - Financing"
 date: 2018-12-28T15:14:39+10:00
 weight: 4
 ---
 
-Con una sólida trayectoria y el compromiso de brindar un servicio excelente, Ingen Group es una opción confiable para personas y empresas que buscan asistencia financiera.
-
+With a strong track record and commitment to providing excellent service, Ingen Group is a trusted choice for individuals and businesses seeking financial assistance.
 
 ![Accounting Services](/victoryjacklimited/images/ayuda-financiera.jpg)
 

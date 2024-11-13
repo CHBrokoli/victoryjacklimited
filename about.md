@@ -16,7 +16,7 @@ Thanks to our extensive reach, we are committed to making strategic investments 
 
 Our team of seasoned professionals combines their experience with a progressive mindset, always staying abreast of market trends and emerging opportunities. At **Ingen Group**, we believe in the power of collaboration and use our extensive network to connect companies, investors and opportunities from around the world.
 
-With a strong focus on ethical practices and sustainable investments, we are dedicated to creating value and generating a positive impact on the global economy with a capital of **€18,975,000**. Welcome to the world of **Grupo Ingen**, where investment possibilities know no limits.
+With a strong focus on ethical practices and sustainable investments, we are dedicated to creating value and generating a positive impact on the global economy with a capital of  **€18,975,000**. Welcome to the world of **Grupo Ingen**, where investment possibilities know no limits.
 
 ## Our group of investors has specialized knowledge and experience
 

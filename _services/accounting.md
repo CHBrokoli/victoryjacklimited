@@ -1,11 +1,10 @@
 ---
-title: "Capital Privado"
+title: "Private Capital"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Con un fuerte enfoque en la adquisición y el desarrollo de empresas prometedoras, **Ingen Group** ha logrado crear una cartera diversificada de empresas exitosas en diversas industrias.
-
+With a strong focus on acquiring and developing promising companies, **Ingen Group** has managed to create a diversified portfolio of successful companies in various industries.
 
 
 ![Accounting Services](/victoryjacklimited/images/fondos-mutuos.jpg)

@@ -8,79 +8,79 @@ With a strong track record and commitment to providing excellent service, Ingen 
 
 ![Accounting Services](/victoryjacklimited/images/ayuda-financiera.jpg)
 
-# Nuestro crecimiento financiero
+# Our financial growth
 
-“Nuestra Financiación del Crecimiento Global” es una iniciativa estratégica destinada a acelerar el desarrollo de los mercados y economías emergentes, proporcionándoles acceso a capital y experiencia.
+“Our Global Growth Financing” is a strategic initiative aimed at accelerating the development of emerging markets and economies, providing them with access to capital and expertise.
 
-Esta iniciativa se centra en identificar y abordar las necesidades financieras únicas de estas regiones, aprovechando soluciones y asociaciones innovadoras para cerrar la brecha entre la oferta y la demanda y fomentando el crecimiento y el desarrollo económico sostenibles.
+This initiative focuses on identifying and addressing the unique financial needs of these regions, leveraging innovative solutions and partnerships to close the gap between supply and demand and fostering sustainable economic growth and development.
 
-Comprendemos la importancia de obtener financiación a tiempo, y nuestro rápido proceso de aprobación significa que puede obtener los fondos que necesita cuando los necesita. No permita que las limitaciones financieras lo detengan. Recurra a **Ingen Group** para obtener soluciones de financiación de préstamos confiables y eficientes.
+We understand the importance of getting funding on time, and our fast approval process means you can get the funds you need when you need them. Don't let financial limitations stop you. Turn to **Ingen Group** for reliable and efficient loan financing solutions.
 
-## Solicitar
+## Request
 
-Completa tu solicitud proporcionando información personal y de ingresos sobre ti y sobre el propósito del préstamo. Te pedimos permiso para interrogar las bases de datos para conocer tu historial crediticio. En base a toda esta información sabrás de inmediato si tienes el préstamo y bajo qué condiciones. Tu préstamo está listo para ti y reservado, compuesto por los mejores proveedores internacionales disponibles actualmente.
+Complete your application by providing personal and income information about yourself and the purpose of the loan. We ask your permission to interrogate the databases to find out your credit history. Based on all this information you will know immediately if you have the loan and under what conditions. Your loan is ready for you and reserved, made up of the best international providers currently available.
 
-Si nos comunicas el resultado positivo de los controles recibirás inmediatamente una cita directamente con el prestador del servicio donde te explicarán detalladamente las condiciones del contrato sin compromiso. Los prestadores deben estar seguros de que su dinero va a parar a manos serias y fiables y por eso existen condiciones obligatorias para obtener un préstamo.
+If you inform us of the positive result of the controls, you will immediately receive an appointment directly with the service provider where they will explain the conditions of the contract in detail without obligation. Lenders must be sure that their money will end up in serious and reliable hands and that is why there are mandatory conditions to obtain a loan.
 
-## Todos los solicitantes deben tener:
+## All applicants must have:
 
-- Una identidad que podemos confirmar
-- Una cuenta bancaria
-- Un ingreso comprobable
+- An identity we can confirm
+- A bank account
+- A verifiable income
 
-## No debe tener:
+## You must not have:
 
-- Insolvencia grave previa
-- Altos niveles de deuda
-- Ingresos insuficientes para cubrir la cuota
-- Debes ser mayor de edad para obtener un préstamo
-- Sus ingresos pueden proceder de empleados (incluidos los contratos temporales o de formación), de trabajadores autónomos o de pensiones de empleo atípico
+- Previous serious insolvency
+- High levels of debt
+- Insufficient income to cover the fee
+- You must be of legal age to obtain a loan
+- Your income may come from employees (including temporary or training contracts), from self-employed workers or from atypical employment pensions
 
 ![Accounting Services](/victoryjacklimited/images/razones-invertir.jpg)
 
-# Nuestros préstamos globales - Financiación
+# Our global loans - Financing
 
-Nuestros préstamos globales brindan acceso a una amplia gama de opciones de financiamiento, permitiendo a las personas y empresas alcanzar sus metas y objetivos.
+Our global loans provide access to a wide range of financing options, allowing individuals and businesses to achieve their goals and objectives.
 
-Con una variedad de productos de préstamo y plazos de pago flexibles, nuestros préstamos globales se adaptan a diversas necesidades y circunstancias. Desde préstamos personales hasta hipotecas, líneas de crédito y préstamos comerciales, ofrecemos un conjunto integral de soluciones financieras para ayudarlo a alcanzar sus sueños y hacer crecer su patrimonio.
+With a variety of loan products and flexible repayment terms, our balloon loans fit a variety of needs and circumstances. From personal loans to mortgages, lines of credit and business loans, we offer a comprehensive set of financial solutions to help you achieve your dreams and grow your wealth.
 
-## Liderando con confianza
+## Leading with confidence
 
-Nuestro enfoque “Liderar con confianza” se basa en la transparencia, la responsabilidad y la empatía.
+Our “Lead with Confidence” approach is based on transparency, accountability and empathy.
 
-Al fomentar una cultura de comunicación abierta y honesta, capacitamos a los miembros de nuestro equipo para que se responsabilicen de su trabajo, compartan sus ideas y brinden comentarios constructivos. Este entorno basado en la confianza nos permite tomar decisiones informadas, resolver conflictos de manera eficaz y generar resultados significativos que beneficien a todos los involucrados.
+By fostering a culture of open and honest communication, we empower our team members to take ownership of their work, share their ideas, and provide constructive feedback. This trust-based environment allows us to make informed decisions, resolve conflicts effectively, and generate meaningful results that benefit everyone involved.
 
-## Nuestras soluciones avanzadas para préstamos
+## Our advanced lending solutions
 
-Nuestras innovadoras soluciones de préstamos están diseñadas para empoderar a las personas y a las empresas a alcanzar sus objetivos financieros.
+Our innovative lending solutions are designed to empower individuals and businesses to achieve their financial goals.
 
-Con una variedad de opciones, que incluyen préstamos personales, préstamos comerciales y préstamos hipotecarios, ofrecemos soluciones financieras flexibles y competitivas para satisfacer las necesidades únicas de nuestros clientes. Nuestra tecnología avanzada y nuestro proceso simplificado permiten una solicitud, aprobación y desembolso rápidos y sencillos, lo que permite a nuestros clientes acceder a los fondos que necesitan, cuando los necesitan.
+With a variety of options, including personal loans, business loans and mortgage loans, we offer flexible and competitive financial solutions to meet the unique needs of our clients. Our advanced technology and streamlined process allows for quick and easy application, approval and disbursement, allowing our clients to access the funds they need, when they need them.
 
-## Nuestros préstamos gestión de riesgos
+## Our risk management loans
 
-Nuestros préstamos se gestionan con el máximo cuidado a través de una rigurosa diligencia debida, garantizando que cada decisión de inversión sea informada y responsable.
+Our loans are managed with the utmost care through rigorous due diligence, ensuring that every investment decision is informed and responsible.
 
-Realizamos una investigación y un análisis exhaustivos de cada oportunidad de préstamo, evaluando cuidadosamente la solvencia, las finanzas y las perspectivas comerciales del prestatario para identificar los posibles riesgos y mitigarlos. Este enfoque disciplinado nos permite tomar decisiones informadas que equilibran el riesgo y la recompensa, lo que en última instancia genera fuertes retornos para nuestros inversores y minimiza las posibles pérdidas.
+We conduct extensive research and analysis of each lending opportunity, carefully evaluating the borrower's creditworthiness, finances and business prospects to identify potential risks and mitigate them. This disciplined approach allows us to make informed decisions that balance risk and reward, ultimately generating strong returns for our investors and minimizing potential losses.
 
-## ¿Por qué elegirnos? 
+## Why choose us? 
 
-Ingen Group respalda la gestión de las empresas de su cartera no solo con capital, sino también con conocimientos, experiencia y perspectiva únicos. Consideramos a nuestros empresarios como socios a largo plazo y nos esforzamos por garantizar el máximo éxito y viabilidad a largo plazo de sus negocios.
+Ingen Group supports the management of its portfolio companies not only with capital, but also with unique knowledge, experience and perspective. We consider our entrepreneurs as long-term partners and strive to ensure the maximum success and long-term viability of their businesses.
 
-Nuestro equipo prestará su experiencia cuando sea apropiado, no buscamos reemplazar al empresario al tomar decisiones comerciales críticas, dejamos la gestión diaria del negocio al equipo de gestión establecido y complementaremos el equipo con ejecutivos capacitados de la industria y conocimiento estratégico, cuando sea necesario.
+Our team will lend their expertise where appropriate, we do not seek to replace the entrepreneur in making critical business decisions, we leave the day-to-day management of the business to the established management team and will supplement the team with capable industry executives and strategic knowledge, where necessary.
 
-Implementamos con éxito esta estrategia desde su fundación, brindando conocimiento y experiencia empresarial para ayudar a sus empresarios a construir y crear valor en sus negocios.
+We have successfully implemented this strategy since its founding, providing business knowledge and experience to help its entrepreneurs build and create value in their businesses.
 
-## **Ingen Group**, agrega valor a su cartera de empresas al:
+## **Ingen Group**, adds value to its portfolio of companies by:
 
-  - Implementar nuevos procedimientos de gestión, políticas, presupuestos y planes de negocio;
-  - Aumentar la alta dirección cuando sea necesario, incluida la contratación de los mejores ejecutivos de ventas y operaciones occidentales o el director
-  - Los responsables financieros mejorarán las funciones de auditoría y control
-  - Evaluar e implementar nuevos sistemas, cuando sea necesario
-  - Crear, reclutar y presidir Juntas Directivas y comités ejecutivos
-  - Asistencia en la búsqueda y evaluación de fusiones y adquisiciones
-  - Gestión de diversas transacciones financieras, incluida la obtención de facilidades crediticias, la refinanciación/reestructuración de deuda existente, la captación de capital social y la supervisión de procesos de IPO, ventas estratégicas u otros tipos de posibles transacciones de salida
-  - Contratación de expertos globales para ayudar a tomar decisiones críticas sobre el desarrollo empresarial, como la evaluación de nuevas ubicaciones de sitios para expansión, etc.
+  - Implement new management procedures, policies, budgets and business plans;
+  - Increase senior management where necessary, including hiring top Western sales and operations executives or director
+  - Financial managers will improve audit and control functions
+  - Evaluate and implement new systems, when necessary
+  - Create, recruit and chair Boards of Directors and executive committees
+  - Assistance in the search and evaluation of mergers and acquisitions
+  - Management of various financial transactions, including obtaining credit facilities, refinancing/restructuring of existing debt, raising equity capital and overseeing IPO processes, strategic sales or other types of potential exit transactions
+  - Hiring global experts to help make critical business development decisions such as evaluating new site locations for expansion, etc.
 
-## Emprendedores - próximos pasos
+## Entrepreneurs - next steps
 
-Si tiene una propuesta comercial y está interesado en obtener más información sobre cómo **Ingen Group** puede ayudarlo a desarrollar su negocio, comuníquese con nosotros. Incluya su nombre, información de contacto y una descripción de la empresa y nos comunicaremos con usted en breve para analizar los próximos pasos.
+If you have a business proposal and are interested in learning more about how **Ingen Group** can help you develop your business, please contact us. Include your name, contact information, and a business description and we will contact you shortly to discuss next steps.

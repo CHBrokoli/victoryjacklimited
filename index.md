@@ -1,7 +1,7 @@
 ---
-title: Bienvenidos a Ingen Group
+title: Welcome to Ingen Group
 layout: home
-description: Somos una empresa de inversión. Aprovechamos la experiencia y el conocimiento de nuestro equipo para trabajar en cada inversión mientras aplicamos nuestra experiencia sectorial y transaccional para crear el mejor valor para nuestra empresa de inversión.
+description: We are an investment company. We leverage the experience and knowledge of our team to work on each investment while applying our sector and transactional experience to create the best value for our investment company.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true

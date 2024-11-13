@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Conoce al equipo
+# Meet the team
 
-Nuestro equipo de consultores calificados financieros puede ayudar a su negocio en cualquier etapa de su crecimiento.
+Our team of qualified financial consultants can help your business at any stage of its growth.

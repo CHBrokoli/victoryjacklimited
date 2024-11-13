@@ -9,18 +9,18 @@ With a strong focus on acquiring and developing promising companies, **Ingen Gro
 
 ![Accounting Services](/victoryjacklimited/images/fondos-mutuos.jpg)
 
-# Nuestro crecimiento acelerado a través de conocientos locales para el sector
+# Our accelerated growth through local knowledge for the sector
 
-Nuestro equipo de inversiones de capital privado global se centra en identificar e invertir en empresas innovadoras de alto crecimiento con un fuerte potencial de rentabilidad a largo plazo. Con un alcance global, nos centramos en sectores como la tecnología, la atención sanitaria y los productos de consumo, y trabajamos en estrecha colaboración con empresarios, empresas familiares y otras firmas de capital privado para impulsar el crecimiento, mejorar las operaciones y crear valor para nuestra empresa.
+Our global private equity investment team focuses on identifying and investing in innovative, high-growth companies with strong long-term profitability potential. With a global reach, we focus on sectors such as technology, healthcare and consumer products, and work closely with entrepreneurs, family businesses and other private equity firms to drive growth, improve operations and create value for our company.
 
 
-## Nuestra estrategia
+## Our strategy
 
-Nuestra estrategia es acelerar el crecimiento a través de conocimientos locales, aprovechando nuestro profundo conocimiento del sector para identificar y aprovechar las oportunidades emergentes. Al permanecer cerca del mercado y colaborar con las partes interesadas locales, podemos identificar tendencias y posibles disruptores, lo que nos permite tomar decisiones de inversión informadas e impulsar la creación de valor para las empresas de nuestra cartera.
+It is to accelerate growth through local insights, leveraging our deep sector knowledge to identify and seize emerging opportunities. By staying close to the market and collaborating with local stakeholders, we can identify trends and potential disruptors, allowing us to make informed investment decisions and drive value creation for our portfolio companies.
 
-## Nuestras inversiones
+## Our investments
 
-Nuestras inversiones de capital privado se centran en brindar capital estratégico a empresas de alto crecimiento, con énfasis principal en tecnología, atención médica y tecnología financiera. Buscamos asociarnos con emprendedores y equipos de gestión excepcionales que compartan nuestra visión de crear empresas sostenibles y líderes en el mercado que generen retornos a largo plazo para nuestros inversores. A través de una combinación de inversiones de capital y apoyo operativo, nuestro objetivo es impulsar el crecimiento, aumentar la rentabilidad y crear valor para todas las partes interesadas.
+Private equity investments focus on providing strategic capital to high-growth companies, with primary emphasis on technology, healthcare and financial technology. We seek to partner with exceptional entrepreneurs and management teams who share our vision of creating sustainable, market-leading companies that generate long-term returns for our investors. Through a combination of capital investments and operational support, we aim to drive growth, increase profitability and create value for all stakeholders.
 
 ![Accounting Services](/victoryjacklimited/images/proyecto-app.jpg)
 

@@ -1,11 +1,10 @@
 ---
-title: "Coches"
+title: "Cars"
 date: 2019-04-18T12:33:46+10:00
 weight: 6
 ---
 
-Nuestra empresa tiene una larga trayectoria en la inversión en vehículos de edición limitada. A lo largo de los años, hemos dedicado importantes recursos a la adquisición de estos automóviles únicos y exclusivos. Estos vehículos de edición limitada tienen un inmenso valor y resultan atractivos tanto para coleccionistas como para entusiastas.
-
+Our company has a long history of investing in limited edition vehicles. Over the years, we have dedicated significant resources to the acquisition of these unique and exclusive automobiles. These limited edition vehicles have immense value and appeal to collectors and enthusiasts alike.
 
 ![Accounting Services](/victoryjacklimited/images/depositphotos2.jpg)
 

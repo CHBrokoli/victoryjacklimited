@@ -36,7 +36,7 @@ If you inform us of the positive result of the controls, you will immediately re
 - You must be of legal age to obtain a loan
 - Your income may come from employees (including temporary or training contracts), from self-employed workers or from atypical employment pensions
 
-![Accounting Services](/images/razones-invertir.jpg)
+![Accounting Services](/images/razones-invertir.jpeg)
 
 # Our global loans - Financing
 

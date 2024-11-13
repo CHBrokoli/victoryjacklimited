@@ -6,7 +6,7 @@ weight: 4
 
 With a strong track record and commitment to providing excellent service, Ingen Group is a trusted choice for individuals and businesses seeking financial assistance.
 
-![Accounting Services](/victoryjacklimited/images/ayuda-financiera.jpg)
+![Accounting Services](/images/ayuda-financiera.jpg)
 
 # Our financial growth
 
@@ -36,7 +36,7 @@ If you inform us of the positive result of the controls, you will immediately re
 - You must be of legal age to obtain a loan
 - Your income may come from employees (including temporary or training contracts), from self-employed workers or from atypical employment pensions
 
-![Accounting Services](/victoryjacklimited/images/razones-invertir.jpg)
+![Accounting Services](/images/razones-invertir.jpg)
 
 # Our global loans - Financing
 

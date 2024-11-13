@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Servicios que crecen con tu negocio
+# Services that grow with your business
 
-Un grupo de inversores, una firma multi-inversión responsable con alcance global.
+A group of investors, a responsible multi-investment firm with global reach.

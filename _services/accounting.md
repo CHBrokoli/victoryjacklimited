@@ -7,7 +7,7 @@ weight: 1
 With a strong focus on acquiring and developing promising companies, **Ingen Group** has managed to create a diversified portfolio of successful companies in various industries.
 
 
-![Accounting Services](/victoryjacklimited/images/fondos-mutuos.jpg)
+![Accounting Services](/images/fondos-mutuos.jpg)
 
 # Our accelerated growth through local knowledge for the sector
 

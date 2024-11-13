@@ -1,7 +1,7 @@
 [
   {
-    "title": "Consulta gratuita",
-    "description": "Los nuevos clientes reciben una consulta sin compromiso, siempre nos interesa saber lo que tiene que decir, así que ¿por qué no se pone en contacto con nosotros?",
+    "title": "Free Consultation",
+    "description": "LNew clients receive an obligation free consultation.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Identificamos y adquirimos",
-    "description": "Tenemos un profundo conocimiento de las tendencias del mercado y somos expertos en identificar oportunidades de inversión lucrativas.",
+    "title": "We identify and acquire",
+    "description": "We have a deep understanding of market trends and are experts in identifying lucrative investment opportunities.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Equipo dedicado y experimentado",
-    "description": "Con un fuerte enfoque en prácticas éticas e inversiones sostenibles, nos dedicamos a crear valor y generar un impacto positivo en la economía global.",
+    "title": "Dedicated and experienced team",
+    "description": "With a strong focus on ethical practices and sustainable investments, we are dedicated to creating value and generating a positive impact on the global economy.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

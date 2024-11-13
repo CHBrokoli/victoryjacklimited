@@ -10,4 +10,4 @@ show_call_box: true
 
 # Investment Company
 
-We are a Investment company, We leverage on our Team`s expertise and knowledge to work on each Investment whilst applying our sector and transaction experience in creating the best value for our investment company.
+We are an investment firm dedicated to exploring opportunities in various sectors such as manufacturing, healthcare, real estate, and technology. 

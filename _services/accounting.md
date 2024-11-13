@@ -22,7 +22,7 @@ It is to accelerate growth through local insights, leveraging our deep sector kn
 
 Private equity investments focus on providing strategic capital to high-growth companies, with primary emphasis on technology, healthcare and financial technology. We seek to partner with exceptional entrepreneurs and management teams who share our vision of creating sustainable, market-leading companies that generate long-term returns for our investors. Through a combination of capital investments and operational support, we aim to drive growth, increase profitability and create value for all stakeholders.
 
-![Accounting Services](/images/proyecto-app.jpg)
+![Accounting Services](/images/proyecto-app.jpeg)
 
 # Our platform and local knowledge
 

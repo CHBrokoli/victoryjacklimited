@@ -1,5 +1,5 @@
 ---
-title: About Us?
+title: About us?
 layout: page
 description: About
 bodyClass: page-about
@@ -10,7 +10,7 @@ A group of investors, a responsible multi-investment firm with global reach. We 
 
 ![Accounting Services](/images/Mask.svg )
 
-# About us
+# About
 
 Thanks to our extensive reach, we are committed to making strategic investments in various industries, fostering growth and maximizing profitability for our clients. We pride ourselves on our meticulous approach to investment management, carefully analyzing opportunities and mitigating risks to ensure long-term success.
 

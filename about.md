@@ -8,7 +8,7 @@ weight: 1
 
 A group of investors, a responsible multi-investment firm with global reach. We have a deep understanding of market trends and are experts in identifying lucrative investment opportunities. Their experience allows us to make informed decisions and maximize returns for our clients.
 
-![Accounting Services](/images/whatis.jpg)
+![Accounting Services](/images/Mask.svg )
 
 # About us
 

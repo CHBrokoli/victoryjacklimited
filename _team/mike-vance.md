@@ -1,10 +1,10 @@
 ---
-title: "Sr. Bernard Senn"
+title: "Mr. Simon Cooper"
 date: 2018-12-20T13:44:30+10:00
-image: "images/team/joseph-gonzalez-399972-unsplash.jpg"
-jobtitle: "Asesor Financiero"
+image: "images/team/vince-fleming-613817-unsplash.jpg"
+jobtitle: "International broker"
 linkedinurl: ""
 weight: 3
 ---
 
-Nuestro grupo de inversores está formado por profesionales cualificados y experimentados que aportan una gran cantidad de conocimientos y experiencia a nuestro equipo. Con años de experiencia en diversas industrias, nuestros inversores tienen un historial de éxito comprobado.
+Our group of investors is made up of qualified and experienced professionals who bring a wealth of knowledge and experience to our team. With years of experience in various industries, our investors have a proven track record of success.

@@ -1,13 +1,12 @@
 ---
-title: "Sr. Richard A. Hadida"
+title: "Mr. Peter Wyss "
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Director"
-emailurl: 'mailtohadida@ingengroup.com'
+jobtitle: "Financial advisor"
 promoted: true
 weight: 1
 ---
 
-Nuestro equipo aporta una gran cantidad de conocimientos y experiencia. Con orígenes y experiencias diversas, hemos creado una inteligencia colectiva sin igual.
+Our team brings a wealth of knowledge and experience. With diverse origins and experiences, we have created an unparalleled collective intelligence.
 
-Cada miembro de nuestro equipo aporta su perspectiva y sus habilidades únicas, lo que nos permite abordar los desafíos desde múltiples ángulos. Creemos que el conocimiento es poder y nuestro equipo está constantemente aprendiendo, creciendo y manteniéndose actualizado con las últimas tendencias y desarrollos en nuestros respectivos campos. Con nuestro conocimiento combinado, confiamos en nuestra capacidad para ofrecer resultados excepcionales y superar las expectativas de nuestros clientes.
+Each member of our team brings their unique perspective and skills, allowing us to approach challenges from multiple angles. We believe that knowledge is power and our team is constantly learning, growing and staying up to date with the latest trends and developments in our respective fields. With our combined knowledge, we are confident in our ability to deliver exceptional results and exceed our clients' expectations.

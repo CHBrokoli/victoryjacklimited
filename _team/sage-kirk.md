@@ -1,9 +1,8 @@
 ---
 title: "Mr. Noah Klein"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/sage-kirk-485982-unsplash.jpg"
+image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
 jobtitle: "International broker"
-linkedinurl: ""
 promoted: true
 weight: 2
 ---

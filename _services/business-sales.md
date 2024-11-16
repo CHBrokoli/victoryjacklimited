@@ -6,7 +6,7 @@ weight: 2
 
 Over the years, our company has made significant investments in the global real estate market. Thanks to our experience and strategic approach, we have identified lucrative opportunities in various regions of the world.
 
-![Accounting Services](/images/fondos-inversion.jpg)
+![Accounting Services](/images/left.jpg)
 
 # Our real estate investment
 

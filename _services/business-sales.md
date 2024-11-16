@@ -40,7 +40,7 @@ The development of strategies for the potential use of the property in order to 
 
 The development of a marketing concept either for the leasing of the property or for the sale of a real estate object or property portfolios.
 
-![Accounting Services](/images/ilustracion-concepto.jpg)
+![Accounting Services](/images/Card.jpg)
 
 ## Our independent specialist properties 
 

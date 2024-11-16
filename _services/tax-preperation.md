@@ -6,7 +6,7 @@ weight: 6
 
 Our company has a long history of investing in limited edition vehicles. Over the years, we have dedicated significant resources to the acquisition of these unique and exclusive automobiles. These limited edition vehicles have immense value and appeal to collectors and enthusiasts alike.
 
-![Accounting Services](/images/depositphotos2.jpg)
+![Accounting Services](/images/audiii.jpg)
 
 # Our investment in cars
 

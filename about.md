@@ -33,7 +33,7 @@ By carefully selecting a diversified portfolio of investments, we seek to mitiga
 
 Our strategy involves extensive research and analysis to identify opportunities in sectors that align with our values ​​and have long-term growth potential. By combining financial performance with positive impact, we seek to create value for our investors while contributing to a more sustainable future.
 
-![Accounting Services](/images/e4b.jpg)
+![Accounting Services](/images/Rectang.jpg)
 
 ## Ingen Group, identify and acquire
 

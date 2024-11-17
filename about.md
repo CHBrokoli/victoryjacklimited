@@ -4,9 +4,7 @@ layout: page
 description: About
 bodyClass: page-about
 weight: 1
-intro_image: "images/illustrations/pointin.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
+
 ---
 
 A group of investors, a responsible multi-investment firm with global reach. We have a deep understanding of market trends and are experts in identifying lucrative investment opportunities. Their experience allows us to make informed decisions and maximize returns for our clients.

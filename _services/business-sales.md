@@ -6,7 +6,7 @@ weight: 2
 
 Over the years, our company has made significant investments in the global real estate market. Thanks to our experience and strategic approach, we have identified lucrative opportunities in various regions of the world.
 
-![Accounting Services](/images/Mas.jpg)
+![Accounting Services](/images/Mask.svg)
 
 # Our real estate investment
 
@@ -40,7 +40,7 @@ The development of strategies for the potential use of the property in order to 
 
 The development of a marketing concept either for the leasing of the property or for the sale of a real estate object or property portfolios.
 
-![Accounting Services](/images/Mask.svg)
+![Accounting Services](/images/Mas.jpg)
 
 ## Our independent specialist properties 
 

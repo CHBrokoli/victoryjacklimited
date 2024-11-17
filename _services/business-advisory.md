@@ -6,7 +6,7 @@ weight: 4
 
 With a strong track record and commitment to providing excellent service, Ingen Group is a trusted choice for individuals and businesses seeking financial assistance.
 
-![Accounting Services](/images/ayuda-financiera.jpg)
+![Accounting Services](/images/deskyop.jpg)
 
 # Our financial growth
 

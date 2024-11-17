@@ -6,7 +6,7 @@ weight: 5
 
 Our company specializes in cryptocurrency investments. We understand the potential and growth opportunities that digital currencies offer in the current financial landscape.
 
-![Accounting Services](/images/1613745359754.jpg)
+![Accounting Services](/images/Market.jpg)
 
 # Our investment in cryptocurrencies
 

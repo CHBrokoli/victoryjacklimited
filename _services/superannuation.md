@@ -25,7 +25,7 @@ Through extensive research and analysis, we aim to identify promising cryptocurr
 
 By diversifying our portfolio and allocating resources strategically, we strive to take advantage of the volatility and potential high returns that the cryptocurrency market offers. With a long-term perspective and rigorous risk management strategies, we are confident in our ability to navigate this dynamic and exciting investment landscape.
 
-![Accounting Services](/images/p7-bg1.jpg)
+![Accounting Services](/images/Bitcoin.jpg)
 
 ## Our research into suitable cryptocurrencies includes
 

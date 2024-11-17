@@ -6,7 +6,7 @@ weight: 2
 
 Over the years, our company has made significant investments in the global real estate market. Thanks to our experience and strategic approach, we have identified lucrative opportunities in various regions of the world.
 
-![Accounting Services](/images/left.jpg)
+![Accounting Services](/images/Mas.jpg)
 
 # Our real estate investment
 

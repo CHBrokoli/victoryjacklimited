@@ -2,7 +2,6 @@
 title: "Mr. Noah Klein"
 date: 2018-11-19T10:47:58+10:00
 jobtitle: "International broker"
-promoted: true
 weight: 2
 ---
 

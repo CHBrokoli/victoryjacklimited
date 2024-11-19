@@ -1,7 +1,6 @@
 ---
 title: "Mr. Simon Cooper"
 date: 2018-12-20T13:44:30+10:00
-image: "images/team/vince-fleming-613817-unsplash.jpg"
 jobtitle: "International broker"
 linkedinurl: ""
 weight: 3

@@ -9,7 +9,7 @@ weight: 1
 
 A group of investors, a responsible multi-investment firm with global reach. We have a deep understanding of market trends and are experts in identifying lucrative investment opportunities. Their experience allows us to make informed decisions and maximize returns for our clients.
 
-![Accounting Services](/images/Rectangle.jpg )
+![Accounting Services](/images/Rectang.jpg )
 
 # About
 
@@ -32,8 +32,6 @@ Our investment approach focuses on striking a balance between sustainability and
 By carefully selecting a diversified portfolio of investments, we seek to mitigate risks and maximize potential returns. We believe that sustainable investments not only contribute to the well-being of society and the planet, but also offer attractive financial prospects.
 
 Our strategy involves extensive research and analysis to identify opportunities in sectors that align with our values ​​and have long-term growth potential. By combining financial performance with positive impact, we seek to create value for our investors while contributing to a more sustainable future.
-
-![Accounting Services](/images/Rectang.jpg)
 
 ## Ingen Group, identify and acquire
 

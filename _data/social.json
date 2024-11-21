@@ -4,20 +4,12 @@
     "link": "https://twitter.com/",
     "image": "images/social/twitter.svg"
   },
-  {
-      "name": "Facebook",
-      "link": "https://facebook.com",
-      "image": "images/social/facebook.svg"
-  },
+  
   {
       "name": "Email",
       "link": "mailto:contact@ingengroupsa.com ",
       "image": "images/social/email.svg"
-  },
-  {
-      "name": "Instagram",
-      "link": "https://instagram.com",
-      "image": "images/social/instagram.svg"
   }
-
+  
+  
 ]

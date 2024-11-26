@@ -1,7 +1,7 @@
 ---
 title: "Cryptocurrencies"
 date: 2019-03-28T15:14:54+10:00
-weight: 5
+weight: 4
 ---
 
 Our company specializes in cryptocurrency investments. We understand the potential and growth opportunities that digital currencies offer in the current financial landscape.

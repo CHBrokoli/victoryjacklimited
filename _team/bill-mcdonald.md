@@ -2,6 +2,7 @@
 title: "Mr. Yamil Yarin"
 date: 2018-11-19T10:47:58+10:00
 jobtitle: "International broker"
+email: 'contact@ingengroupsa.con'
 weight: 7
 ---
 

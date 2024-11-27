@@ -1,11 +1,9 @@
 ---
-title: "Mr. Peter Wyss "
+title: "Mrs. Anastasia Blow"
 date: 2018-11-19T10:47:58+10:00
-jobtitle: "Financial advisor"
+jobtitle: "Director"
 promoted: true
-weight: 1
+weight: 2
 ---
 
-Our team brings a wealth of knowledge and experience. With diverse origins and experiences, we have created an unparalleled collective intelligence.
-
-Each member of our team brings their unique perspective and skills, allowing us to approach challenges from multiple angles. We believe that knowledge is power and our team is constantly learning, growing and staying up to date with the latest trends and developments in our respective fields. With our combined knowledge, we are confident in our ability to deliver exceptional results and exceed our clients' expectations.
+We prioritize sustainable sectors and businesses that have growth potential and positive impact. Remaining committed to our vision, we seek to create a portfolio that generates sustainable income and builds value over time.

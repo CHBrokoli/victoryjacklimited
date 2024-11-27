@@ -1,9 +1,9 @@
 ---
-title: "Mr. Peter Wyss "
+title: "Mr. Peter Wyss"
 date: 2018-11-19T10:47:58+10:00
 jobtitle: "Financial advisor"
 promoted: true
-weight: 1
+weight: 2
 ---
 
 Our team brings a wealth of knowledge and experience. With diverse origins and experiences, we have created an unparalleled collective intelligence.

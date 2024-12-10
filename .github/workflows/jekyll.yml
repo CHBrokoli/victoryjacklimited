@@ -27,8 +27,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build job
-  build:
+  jobName:
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout
